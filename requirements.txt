@@ -1,7 +1,7 @@
 feedparser==6.0.11
-requests==2.31.0
+requests==2.33.0
 beautifulsoup4==4.12.3
 groq==0.4.2
-curl_cffi==0.6.2
+curl_cffi==0.7.0b4
 trafilatura==1.8.1
-lxml==5.1.0
+lxml==6.1.0
