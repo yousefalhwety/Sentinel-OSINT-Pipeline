@@ -1,0 +1,70 @@
+name: OpSec Intelligence Bot
+
+# Global configuration for the automated intelligence gathering pipeline.
+# Designed for decentralized execution using GitHub Actions.
+
+on:
+  schedule:
+    # Run daily at 05:00 UTC to capture the latest global security updates.
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    # Allows for manual triggering of the intelligence pipeline.
+
+env:
+  # Ensuring the use of modern Node.js environments for action runners.
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  run-intelligence-gathering:
+    name: Execute Intelligence Pipeline
+    runs-on: ubuntu-latest
+    permissions:
+      # Granting write permissions is essential for state persistence (tracking sent URLs).
+      contents: write
+
+    steps:
+      - name: Checkout Source Code
+        # Pulls the repository to the runner environment.
+        uses: actions/checkout@v4
+
+      - name: Apply Operational Security (OpSec) Jitter
+        # Simulates human-like behavior by introducing a random delay to obfuscate traffic patterns.
+        run: |
+          echo "Introducing random delay for traffic pattern obfuscation..."
+          sleep $((RANDOM % 30))
+
+      - name: Initialize Python Environment
+        # Sets up the Python interpreter for data processing.
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Critical Dependencies
+        # Installs libraries via requirements.txt for clean dependency management.
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Execute Intelligence Script
+        # Runs the main gathering and analysis logic.
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python opsec_news.py
+
+      - name: Persist State and System Heartbeat
+        # Saves processed logs and triggers a heartbeat to prevent workflow suspension.
+        run: |
+          git config user.name "m02bd0"
+          git config user.email "142965246+m02bd0@users.noreply.github.com"
+          
+          # Create data directory if it doesn't exist, then update heartbeat
+          mkdir -p data
+          date > data/keepalive.txt
+          
+          # Stage the entire data directory
+          git add data/ || true
+          
+          git commit -m "chore: update intelligence logs and system heartbeat [skip ci]" || echo "No changes to commit"
+          git push
