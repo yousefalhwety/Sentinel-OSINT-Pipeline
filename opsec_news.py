@@ -152,7 +152,7 @@ def process_and_send_article(article_url: str, article_title: str, sent_urls: se
     Act as a Senior Cyber Threat Intelligence (CTI) Specialist. 
 
     ### INSTRUCTIONS:
-    1. **Language:** Professional Technical English.
+    1. **Language:** Professional Technical Arabic (Egyptian Dialect). اكتب بلهجة مصرية تقنية زي "بتوع السايبر" في مصر.
     2. **Formatting:** Use ONLY HTML tags (<b>, <i>) for styling. 
     3. **STRICT RULE:** NO Markdown symbols (like **, *, or ***). Use bullet points (•) for lists.
     4. **Tone:** Tactical and authoritative.
