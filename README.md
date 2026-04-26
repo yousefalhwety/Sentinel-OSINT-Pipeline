@@ -14,7 +14,7 @@ This project is an advanced, decentralized Open Source Intelligence (OSINT) pipe
 
 ## 🚀 Quick Start (Deployment)
 To deploy your own instance of this pipeline:
-1. **Fork** this repository.
+1. **Fork** this repository (Click the "Fork" button at the top right of this page to copy it to your account).
 2. Navigate to **Settings > Secrets and variables > Actions** and add the following Secrets:
    - `GROQ_API_KEY`: Get your free API key from the [Groq Console](https://console.groq.com/keys).
    - `TELEGRAM_BOT_TOKEN`: Create a new bot via [@BotFather](https://t.me/botfather) on Telegram and copy the generated token.
