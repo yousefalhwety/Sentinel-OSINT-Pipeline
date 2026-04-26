@@ -16,9 +16,9 @@ This project is an advanced, decentralized Open Source Intelligence (OSINT) pipe
 To deploy your own instance of this pipeline:
 1. **Fork** this repository.
 2. Navigate to **Settings > Secrets and variables > Actions** and add the following Secrets:
-   - `GROQ_API_KEY`: Your API key for the LLM analysis.
-   - `TELEGRAM_BOT_TOKEN`: Your Telegram bot token.
-   - `TELEGRAM_CHAT_ID`: Your target Telegram chat or channel ID.
+   - `GROQ_API_KEY`: Get your free API key from the [Groq Console](https://console.groq.com/keys).
+   - `TELEGRAM_BOT_TOKEN`: Create a new bot via [@BotFather](https://t.me/botfather) on Telegram and copy the generated token.
+   - `TELEGRAM_CHAT_ID`: Send a message to [@userinfobot](https://t.me/userinfobot) on Telegram to retrieve your numeric Chat ID.
 3. Enable **GitHub Actions** in the `Actions` tab.
 4. (Optional) Trigger the workflow manually to verify the setup.
 
