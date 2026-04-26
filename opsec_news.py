@@ -162,8 +162,6 @@ def process_and_send_article(article_url: str, article_title: str, sent_urls: se
     - Content: {article_content}
 
     ### REQUIRED OUTPUT FORMAT:
-    🚨 {article_title}
-
     🛡️ <b>Tactical Intelligence Report</b>
 
     🎯 <b>Executive Summary:</b>
