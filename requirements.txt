@@ -1,7 +1,8 @@
 feedparser==6.0.11
 requests==2.33.0
 beautifulsoup4==4.12.3
-groq==0.4.2
+groq>=0.9.0
 curl_cffi==0.7.0b4
 trafilatura==1.8.1
 lxml>=4.9.4,<5.2.0
+httpx<0.28.0
