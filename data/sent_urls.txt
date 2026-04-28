@@ -26,3 +26,8 @@ https://forbiddenstories.org/ghost-journalists-cash-and-kremlin-scripts-how-russ
 https://7asecurity.com/blog/2026/04/pentest-quote-comparison/
 https://7asecurity.com/blog/2026/04/defo-audit-by-7asecurity/
 https://7asecurity.com/blog/2026/04/cybersecurity-for-startups/
+https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html
+https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html
+https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html
+https://ooni.org/post/2025-year-in-review/
+https://7asecurity.com/blog/2026/04/hipaa-penetration-testing-protection/
