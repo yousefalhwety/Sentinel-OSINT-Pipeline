@@ -31,3 +31,10 @@ https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html
 https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html
 https://ooni.org/post/2025-year-in-review/
 https://7asecurity.com/blog/2026/04/hipaa-penetration-testing-protection/
+https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html
+https://thehackernews.com/2026/04/researchers-discover-critical-github.html
+https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html
+https://cryptostorm.is/blog/doh
+https://blog.torproject.org/new-release-tor-browser-15011/
+https://proton.me/business/blog/password-policy-template
+https://proton.me/blog/what-is-your-data-worth-to-google
