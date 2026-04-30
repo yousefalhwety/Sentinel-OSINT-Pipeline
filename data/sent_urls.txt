@@ -38,3 +38,6 @@ https://cryptostorm.is/blog/doh
 https://blog.torproject.org/new-release-tor-browser-15011/
 https://proton.me/business/blog/password-policy-template
 https://proton.me/blog/what-is-your-data-worth-to-google
+https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html
+https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html
+https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html
