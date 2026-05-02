@@ -47,3 +47,6 @@ https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html
 https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html
 https://blog.torproject.org/rightscon2026-statement-Tor-Project/
 https://blog.torproject.org/new-release-tails-7_7_1/
+https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html
+https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html
+https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html
