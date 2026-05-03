@@ -50,3 +50,4 @@ https://blog.torproject.org/new-release-tails-7_7_1/
 https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html
 https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html
 https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html
+https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html
