@@ -51,3 +51,6 @@ https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html
 https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html
 https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html
 https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html
+https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html
+https://7asecurity.com/blog/2026/05/requests-cachecontrol-urllib3-audit/
+https://7asecurity.com/blog/2026/05/pci-regulations-data-security/
