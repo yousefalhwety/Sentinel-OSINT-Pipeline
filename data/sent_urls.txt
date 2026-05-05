@@ -54,3 +54,7 @@ https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html
 https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html
 https://7asecurity.com/blog/2026/05/requests-cachecontrol-urllib3-audit/
 https://7asecurity.com/blog/2026/05/pci-regulations-data-security/
+https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html
+https://thehackernews.com/2026/05/progress-patches-critical-moveit.html
+https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html
+https://blog.torproject.org/new-release-tails-7_7_2/
