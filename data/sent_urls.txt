@@ -58,3 +58,8 @@ https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html
 https://thehackernews.com/2026/05/progress-patches-critical-moveit.html
 https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html
 https://blog.torproject.org/new-release-tails-7_7_2/
+https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html
+https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html
+https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html
+https://proton.me/blog/how-to-clear-cache-iphone
+https://proton.me/blog/introducing-post-quantum-encryption
