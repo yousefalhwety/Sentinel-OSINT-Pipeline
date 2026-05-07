@@ -63,3 +63,9 @@ https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html
 https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html
 https://proton.me/blog/how-to-clear-cache-iphone
 https://proton.me/blog/introducing-post-quantum-encryption
+https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html
+https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html
+https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html
+https://ooni.org/post/2026-measuring-internet-censorship-trends-challenges-impact/
+https://blog.torproject.org/tor-community-gathering-2026/
+https://proton.me/business/blog/microsoft-edge-passwords-exposed
