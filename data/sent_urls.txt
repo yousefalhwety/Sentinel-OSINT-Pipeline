@@ -69,3 +69,10 @@ https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html
 https://ooni.org/post/2026-measuring-internet-censorship-trends-challenges-impact/
 https://blog.torproject.org/tor-community-gathering-2026/
 https://proton.me/business/blog/microsoft-edge-passwords-exposed
+https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/
+https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html
+https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html
+https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html
+https://blog.torproject.org/new-release-tor-browser-15013/
+https://blog.torproject.org/new-alpha-release-tor-browser-160a6/
+https://blog.torproject.org/new-release-tor-browser-15012/
