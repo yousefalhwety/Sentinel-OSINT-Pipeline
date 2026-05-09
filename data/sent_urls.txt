@@ -76,3 +76,6 @@ https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html
 https://blog.torproject.org/new-release-tor-browser-15013/
 https://blog.torproject.org/new-alpha-release-tor-browser-160a6/
 https://blog.torproject.org/new-release-tor-browser-15012/
+https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html
+https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html
+https://proton.me/blog/data-anonymization
