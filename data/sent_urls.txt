@@ -79,3 +79,4 @@ https://blog.torproject.org/new-release-tor-browser-15012/
 https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html
 https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html
 https://proton.me/blog/data-anonymization
+https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html
