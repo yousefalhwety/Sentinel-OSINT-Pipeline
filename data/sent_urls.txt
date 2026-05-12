@@ -82,3 +82,8 @@ https://proton.me/blog/data-anonymization
 https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html
 https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html
 https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html
+https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html
+https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html
+https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html
+https://blog.torproject.org/new-release-tails-7_7_3/
+https://7asecurity.com/blog/2026/05/pci-dss-vulnerability-management/
