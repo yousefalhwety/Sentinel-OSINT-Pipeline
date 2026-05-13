@@ -87,3 +87,11 @@ https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html
 https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html
 https://blog.torproject.org/new-release-tails-7_7_3/
 https://7asecurity.com/blog/2026/05/pci-dss-vulnerability-management/
+https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
+https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html
+https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html
+https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html
+https://blog.torproject.org/Defending-the-right-to-know/
+https://proton.me/business/blog/password-security
+https://proton.me/business/blog/phishing-awareness-training
+https://proton.me/business/blog/proton-pass-audit-2026
