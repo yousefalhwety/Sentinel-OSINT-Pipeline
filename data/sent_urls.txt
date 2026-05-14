@@ -95,3 +95,7 @@ https://blog.torproject.org/Defending-the-right-to-know/
 https://proton.me/business/blog/password-security
 https://proton.me/business/blog/phishing-awareness-training
 https://proton.me/business/blog/proton-pass-audit-2026
+https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html
+https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html
+https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html
+https://proton.me/blog/how-to-change-email-password
