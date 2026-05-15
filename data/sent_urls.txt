@@ -99,3 +99,7 @@ https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html
 https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html
 https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html
 https://proton.me/blog/how-to-change-email-password
+https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html
+https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html
+https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html
+https://proton.me/business/blog/ransomware-small-business
