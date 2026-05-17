@@ -109,3 +109,4 @@ https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html
 https://blog.torproject.org/keeping-the-doors-open-unredacted/
 https://proton.me/business/blog/data-sovereignty-for-european-businesses
 https://proton.me/business/blog/security-awareness-training
+https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html
