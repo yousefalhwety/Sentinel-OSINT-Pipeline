@@ -110,3 +110,7 @@ https://blog.torproject.org/keeping-the-doors-open-unredacted/
 https://proton.me/business/blog/data-sovereignty-for-european-businesses
 https://proton.me/business/blog/security-awareness-training
 https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html
+https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html
+https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html
+https://7asecurity.com/blog/2026/05/purple-team-cybersecurity/
+https://7asecurity.com/blog/2026/05/red-team-services-explained/
