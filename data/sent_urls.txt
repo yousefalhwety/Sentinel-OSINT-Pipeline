@@ -114,3 +114,10 @@ https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html
 https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html
 https://7asecurity.com/blog/2026/05/purple-team-cybersecurity/
 https://7asecurity.com/blog/2026/05/red-team-services-explained/
+https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/
+https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html
+https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html
+https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html
+https://blog.torproject.org/preserving-evidence-openarchive-fosters-accountability-media-sovereignty/
+https://proton.me/business/blog/secure-file-sharing-for-smbs
+https://proton.me/business/blog/document-management-best-practices
