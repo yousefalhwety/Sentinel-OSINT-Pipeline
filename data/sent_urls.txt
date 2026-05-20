@@ -121,3 +121,9 @@ https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html
 https://blog.torproject.org/preserving-evidence-openarchive-fosters-accountability-media-sovereignty/
 https://proton.me/business/blog/secure-file-sharing-for-smbs
 https://proton.me/business/blog/document-management-best-practices
+https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html
+https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html
+https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html
+https://blog.torproject.org/fund-internet-freedom/
+https://blog.torproject.org/new-release-tor-browser-15014/
+https://proton.me/business/blog/account-takeover-attacks
