@@ -127,3 +127,8 @@ https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html
 https://blog.torproject.org/fund-internet-freedom/
 https://blog.torproject.org/new-release-tor-browser-15014/
 https://proton.me/business/blog/account-takeover-attacks
+https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html
+https://thehackernews.com/2026/05/github-internal-repositories-breached.html
+https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html
+https://blog.torproject.org/new-release-tails-7_8/
+https://proton.me/business/blog/passkeys-for-business
