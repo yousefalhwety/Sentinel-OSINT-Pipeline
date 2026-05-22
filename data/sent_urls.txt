@@ -132,3 +132,10 @@ https://thehackernews.com/2026/05/github-internal-repositories-breached.html
 https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html
 https://blog.torproject.org/new-release-tails-7_8/
 https://proton.me/business/blog/passkeys-for-business
+https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/
+https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html
+https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html
+https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html
+https://proton.me/business/blog/cost-of-a-data-breach-uk
+https://proton.me/blog/ai-agent
+https://proton.me/blog/pass-access-tokens
