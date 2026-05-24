@@ -139,3 +139,8 @@ https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html
 https://proton.me/business/blog/cost-of-a-data-breach-uk
 https://proton.me/blog/ai-agent
 https://proton.me/blog/pass-access-tokens
+https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/
+https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html
+https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html
+https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html
+https://ooni.org/post/2026-support-ooni-internet-freedom-quadratic-funding-campaign/
