@@ -148,3 +148,8 @@ https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html
 https://7asecurity.com/blog/2026/05/ouinet-audit-7asecurity/
 https://7asecurity.com/blog/2026/05/entra-roles-7asecurity-strategy/
 https://7asecurity.com/blog/2026/05/cloud-threat-hunting/
+https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/
+https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html
+https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html
+https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html
+https://proton.me/blog/journalist-data-leaks
