@@ -153,3 +153,9 @@ https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html
 https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html
 https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html
 https://proton.me/blog/journalist-data-leaks
+https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html
+https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html
+https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html
+https://proton.me/blog/totp
+https://proton.me/blog/hotp
+https://proton.me/business/blog/principle-of-least-privilege
