@@ -159,3 +159,9 @@ https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html
 https://proton.me/blog/totp
 https://proton.me/blog/hotp
 https://proton.me/business/blog/principle-of-least-privilege
+https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html
+https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html
+https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html
+https://proton.me/blog/how-to-block-websites-chrome
+https://proton.me/blog/is-facebook-marketplace-safe
+https://proton.me/blog/how-to-change-wifi-password
