@@ -165,3 +165,7 @@ https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html
 https://proton.me/blog/how-to-block-websites-chrome
 https://proton.me/blog/is-facebook-marketplace-safe
 https://proton.me/blog/how-to-change-wifi-password
+https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html
+https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html
+https://thehackernews.com/2026/05/threat-actors-exploit-critical.html
+https://proton.me/blog/proton-mail-connect-gmail
