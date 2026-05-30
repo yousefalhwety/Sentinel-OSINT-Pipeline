@@ -169,3 +169,9 @@ https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html
 https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html
 https://thehackernews.com/2026/05/threat-actors-exploit-critical.html
 https://proton.me/blog/proton-mail-connect-gmail
+https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html
+https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html
+https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html
+https://proton.me/business/blog/otp-bot
+https://proton.me/business/blog/what-is-video-conferencing
+https://proton.me/business/blog/what-is-ai-compliance
