@@ -175,3 +175,8 @@ https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html
 https://proton.me/business/blog/otp-bot
 https://proton.me/business/blog/what-is-video-conferencing
 https://proton.me/business/blog/what-is-ai-compliance
+https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html
+https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html
+https://proton.me/blog/duckduckgo
+https://7asecurity.com/blog/2026/05/ntlm-hash-security-kerberos-migration/
+https://7asecurity.com/blog/2026/05/stop-kerberoasting-threat-hunting-blueprint/
