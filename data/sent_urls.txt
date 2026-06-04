@@ -189,3 +189,9 @@ https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html
 https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html
 https://blog.torproject.org/arti_2_4_0_released/
 https://proton.me/blog/how-to-delete-chatgpt-account
+https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html
+https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html
+https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html
+https://blog.torproject.org/new-alpha-release-tor-browser-160a7/
+https://blog.torproject.org/new-release-tor-browser-15015/
+https://proton.me/blog/how-to-turn-off-google-ai
