@@ -195,3 +195,10 @@ https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html
 https://blog.torproject.org/new-alpha-release-tor-browser-160a7/
 https://blog.torproject.org/new-release-tor-browser-15015/
 https://proton.me/blog/how-to-turn-off-google-ai
+https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html
+https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html
+https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html
+https://blog.torproject.org/supporting-those-who-speak-out/
+https://blog.torproject.org/new-release-tails-7_8_1/
+https://proton.me/blog/drive-cryptography-update
+https://proton.me/blog/drive-sdk-june-2026
