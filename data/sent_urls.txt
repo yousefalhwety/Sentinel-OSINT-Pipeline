@@ -202,3 +202,8 @@ https://blog.torproject.org/supporting-those-who-speak-out/
 https://blog.torproject.org/new-release-tails-7_8_1/
 https://proton.me/blog/drive-cryptography-update
 https://proton.me/blog/drive-sdk-june-2026
+https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html
+https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html
+https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html
+https://proton.me/blog/sharenting
+https://proton.me/business/blog/europe-us-tech-dependence-qwant
