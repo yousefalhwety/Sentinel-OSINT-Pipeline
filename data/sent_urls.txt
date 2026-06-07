@@ -207,3 +207,6 @@ https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html
 https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html
 https://proton.me/blog/sharenting
 https://proton.me/business/blog/europe-us-tech-dependence-qwant
+https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html
+https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html
+https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html
