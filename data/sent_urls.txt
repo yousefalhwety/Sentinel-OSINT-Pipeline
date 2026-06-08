@@ -210,3 +210,7 @@ https://proton.me/business/blog/europe-us-tech-dependence-qwant
 https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html
 https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html
 https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html
+https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html
+https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html
+https://7asecurity.com/blog/2026/06/protect-ntds-dit-active-directory/
+https://7asecurity.com/blog/2026/06/stop-ad-explorer-abuse/
