@@ -214,3 +214,10 @@ https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html
 https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html
 https://7asecurity.com/blog/2026/06/protect-ntds-dit-active-directory/
 https://7asecurity.com/blog/2026/06/stop-ad-explorer-abuse/
+https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html
+https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html
+https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html
+https://proton.me/business/blog/ai-assistants-for-businesses
+https://proton.me/business/blog/business-data-security
+https://forbiddenstories.org/a-campaign-of-disappearances-inside-the-killings-abductions-and-surveillance-of-mozambiques-government-critics/
+https://forbiddenstories.org/in-mozambique-the-regime-imposes-a-blackout-on-journalists/
