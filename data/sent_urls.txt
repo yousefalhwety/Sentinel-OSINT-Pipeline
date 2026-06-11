@@ -228,3 +228,9 @@ https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html
 https://proton.me/blog/journalist-safety-guide-2026-fifa-world-cup
 https://proton.me/business/blog/blog-cybersecurity-compliance
 https://proton.me/blog/locked-folder-google-photos
+https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/
+https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html
+https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html
+https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html
+https://blog.torproject.org/when-you-need-a-tool-to-reach-the-tool-Paskoocheh/
+https://proton.me/business/blog/multi-factor-authentication-business
