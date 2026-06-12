@@ -234,3 +234,7 @@ https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html
 https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html
 https://blog.torproject.org/when-you-need-a-tool-to-reach-the-tool-Paskoocheh/
 https://proton.me/business/blog/multi-factor-authentication-business
+https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html
+https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html
+https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html
+https://proton.me/blog/fisa-702-expiring-surveillance-reform
