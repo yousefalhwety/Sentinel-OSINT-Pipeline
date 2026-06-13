@@ -238,3 +238,7 @@ https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html
 https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html
 https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html
 https://proton.me/blog/fisa-702-expiring-surveillance-reform
+https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html
+https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html
+https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html
+https://proton.me/blog/phone-virus
