@@ -242,3 +242,5 @@ https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html
 https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html
 https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html
 https://proton.me/blog/phone-virus
+https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html
+https://proton.me/blog/in-win-for-digital-sovereignty-netherlands-blocks-takeover-of-id-service-by-us-firm
