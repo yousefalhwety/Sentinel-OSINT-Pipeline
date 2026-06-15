@@ -244,3 +244,7 @@ https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html
 https://proton.me/blog/phone-virus
 https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html
 https://proton.me/blog/in-win-for-digital-sovereignty-netherlands-blocks-takeover-of-id-service-by-us-firm
+https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html
+https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html
+https://7asecurity.com/blog/2026/06/diamond-ticket-vs-golden-ticket-why-your-soc-is-blind/
+https://7asecurity.com/blog/2026/06/we-audited-legacy-wmic-commands-our-defensive-guide/
