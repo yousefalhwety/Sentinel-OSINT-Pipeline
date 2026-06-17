@@ -254,3 +254,8 @@ https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html
 https://proton.me/business/blog/european-digital-independence-survey-2026
 https://proton.me/business/blog/us-tech-risk-report-for-europe
 https://proton.me/business/blog/blog-cybersecurity-tips
+https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html
+https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html
+https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html
+https://proton.me/business/blog/supply-chain-attack
+https://proton.me/business/blog/blog-pdf-virus
