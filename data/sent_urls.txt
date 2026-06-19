@@ -266,3 +266,10 @@ https://blog.torproject.org/new-release-tor-browser-15016/
 https://proton.me/blog/world-cup-2026-scams-phishing
 https://proton.me/business/blog/an-introduction-to-cloud-document-management
 https://proton.me/business/blog/eu-tech-sovereignty-package
+https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/
+https://thehackernews.com/2026/06/salesforce-disables-klue-app.html
+https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html
+https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html
+https://blog.torproject.org/new-release-tails-7_9/
+https://proton.me/business/blog/outlook-attachment-size-limit
+https://forbiddenstories.org/revealed-unpublished-un-report-implicates-totalenergies-and-mozambiques-military-in-sexual-violence/
