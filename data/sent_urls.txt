@@ -273,3 +273,7 @@ https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html
 https://blog.torproject.org/new-release-tails-7_9/
 https://proton.me/business/blog/outlook-attachment-size-limit
 https://forbiddenstories.org/revealed-unpublished-un-report-implicates-totalenergies-and-mozambiques-military-in-sexual-violence/
+https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html
+https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html
+https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html
+https://proton.me/business/blog/password-manager-adoption
