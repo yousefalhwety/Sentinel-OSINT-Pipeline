@@ -277,3 +277,4 @@ https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html
 https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html
 https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html
 https://proton.me/business/blog/password-manager-adoption
+https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html
