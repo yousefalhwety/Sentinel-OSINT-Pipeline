@@ -281,3 +281,9 @@ https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html
 https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html
 https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html
 https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html
+https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html
+https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html
+https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html
+https://proton.me/business/blog/credential-stuffing-business
+https://7asecurity.com/blog/2026/06/webdav-security-guide/
+https://7asecurity.com/blog/2026/06/iframe-xss-security/
