@@ -305,3 +305,8 @@ https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html
 https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html
 https://proton.me/blog/how-to-disable-microsoft-edge
 https://proton.me/business/blog/password-fatigue
+https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html
+https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html
+https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html
+https://cryptostorm.is/blog/pq-openvpn2
+https://ooni.org/post/2026-new-ooni-probe-desktop-app/
