@@ -310,3 +310,5 @@ https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html
 https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html
 https://cryptostorm.is/blog/pq-openvpn2
 https://ooni.org/post/2026-new-ooni-probe-desktop-app/
+https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html
+https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html
