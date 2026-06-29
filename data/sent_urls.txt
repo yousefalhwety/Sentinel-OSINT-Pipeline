@@ -312,3 +312,8 @@ https://cryptostorm.is/blog/pq-openvpn2
 https://ooni.org/post/2026-new-ooni-probe-desktop-app/
 https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html
 https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html
+https://thehackernews.com/2026/06/public-poc-released-for-critical.html
+https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html
+https://blog.torproject.org/new-release-tor-browser-15017/
+https://7asecurity.com/blog/2026/06/pci-vulnerability-management-find-fix-verify-cyber-risks/
+https://7asecurity.com/blog/2026/06/keda-security-audit-7asecurity/
