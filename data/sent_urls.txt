@@ -323,3 +323,8 @@ https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html
 https://proton.me/business/blog/openai-gpt-5-6
 https://proton.me/business/blog/what-is-vpn-passthrough
 https://proton.me/business/blog/msp-vs-mssp
+https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html
+https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html
+https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html
+https://blog.torproject.org/arti_2_5_0_released/
+https://proton.me/blog/lumo-2
