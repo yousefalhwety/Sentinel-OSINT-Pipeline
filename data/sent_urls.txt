@@ -328,3 +328,8 @@ https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html
 https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html
 https://blog.torproject.org/arti_2_5_0_released/
 https://proton.me/blog/lumo-2
+https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html
+https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html
+https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html
+https://blog.torproject.org/new-release-tails-7_9_1/
+https://proton.me/blog/how-to-remove-malware-android
