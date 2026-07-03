@@ -333,3 +333,8 @@ https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html
 https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html
 https://blog.torproject.org/new-release-tails-7_9_1/
 https://proton.me/blog/how-to-remove-malware-android
+https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/
+https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html
+https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html
+https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html
+https://blog.torproject.org/new-alpha-release-tor-browser-160a8/
