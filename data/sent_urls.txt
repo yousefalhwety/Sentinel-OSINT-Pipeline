@@ -338,3 +338,6 @@ https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html
 https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html
 https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html
 https://blog.torproject.org/new-alpha-release-tor-browser-160a8/
+https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html
+https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html
+https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html
