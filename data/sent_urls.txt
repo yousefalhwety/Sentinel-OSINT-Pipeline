@@ -343,3 +343,9 @@ https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html
 https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html
 https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html
 https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html
+https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html
+https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html
+https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html
+https://proton.me/blog/is-truthfinder-legit
+https://7asecurity.com/blog/2026/07/super-tanks-lightweight-threat-model-7asecurity/
+https://7asecurity.com/blog/2026/07/p2pe-vs-e2ee-encryption-comparison/
