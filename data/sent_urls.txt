@@ -349,3 +349,7 @@ https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html
 https://proton.me/blog/is-truthfinder-legit
 https://7asecurity.com/blog/2026/07/super-tanks-lightweight-threat-model-7asecurity/
 https://7asecurity.com/blog/2026/07/p2pe-vs-e2ee-encryption-comparison/
+https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html
+https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html
+https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html
+https://ooni.org/post/2026-faulty-measurements/
