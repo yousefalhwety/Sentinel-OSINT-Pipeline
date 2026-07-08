@@ -353,3 +353,9 @@ https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html
 https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html
 https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html
 https://ooni.org/post/2026-faulty-measurements/
+https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html
+https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html
+https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html
+https://proton.me/blog/lumo-2-design
+https://proton.me/blog/what-is-spyware
+https://proton.me/business/blog/cyber-essentials-certification
