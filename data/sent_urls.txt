@@ -366,3 +366,9 @@ https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html
 https://proton.me/business/blog/what-is-vpn-passthroug
 https://proton.me/blog/meta-ai-image-generator-muse
 https://proton.me/blog/is-cloaked-legit
+https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html
+https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html
+https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html
+https://proton.me/blog/spyware-apps
+https://proton.me/business/blog/how-to-password-protect-an-excel-file
+https://proton.me/business/blog/how-to-create-a-professional-email-address-with-a-custom-domain
