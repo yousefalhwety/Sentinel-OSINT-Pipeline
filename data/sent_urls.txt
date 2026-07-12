@@ -377,3 +377,6 @@ https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html
 https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html
 https://proton.me/business/blog/gdpr-compliance-checklist-uk-business-guide
 https://proton.me/blog/how-to-turn-off-face-id
+https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html
+https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html
+https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html
