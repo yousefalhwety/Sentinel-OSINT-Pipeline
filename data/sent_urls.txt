@@ -383,3 +383,7 @@ https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473
 https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html
 https://7asecurity.com/blog/2026/07/bofs-explained-protecting-your-network-from-stealthy-attacks/
 https://7asecurity.com/blog/2026/07/misconfigured-cache-database/
+https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/
+https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html
+https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html
+https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html
