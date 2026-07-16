@@ -392,3 +392,12 @@ https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html
 https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html
 https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html
 https://blog.torproject.org/new-release-tor-browser-15018/
+https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html
+https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html
+https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html
+https://proton.me/business/blog/password-audit-business
+https://proton.me/blog/how-isps-track-you
+https://proton.me/business/blog/business-continuity
+https://forbiddenstories.org/while-france-was-considering-buying-pegasus-morocco-was-spying-on-its-ministers/
+https://forbiddenstories.org/how-did-morocco-become-addicted-to-tracking-down-its-opponents-with-spyware/
+https://forbiddenstories.org/codename-morgan-a-look-back-at-moroccos-acquisition-of-pegasus-involving-israel-and-the-united-arab-emirates/
