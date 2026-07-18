@@ -404,3 +404,8 @@ https://forbiddenstories.org/codename-morgan-a-look-back-at-moroccos-acquisition
 https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html
 https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html
 https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html
+https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html
+https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html
+https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html
+https://proton.me/business/blog/firewall
+https://forbiddenstories.org/moroccan-intelligence-is-believed-to-have-spied-on-spanish-agents-who-were-training-them/
