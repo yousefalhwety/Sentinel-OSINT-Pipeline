@@ -409,3 +409,8 @@ https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html
 https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html
 https://proton.me/business/blog/firewall
 https://forbiddenstories.org/moroccan-intelligence-is-believed-to-have-spied-on-spanish-agents-who-were-training-them/
+https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html
+https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html
+https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html
+https://7asecurity.com/blog/2026/07/wpa3-transition-security-risk/
+https://7asecurity.com/blog/2026/07/jquery-3-5-1-vulnerabilities/
