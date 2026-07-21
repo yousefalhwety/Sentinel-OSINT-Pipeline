@@ -414,3 +414,9 @@ https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html
 https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html
 https://7asecurity.com/blog/2026/07/wpa3-transition-security-risk/
 https://7asecurity.com/blog/2026/07/jquery-3-5-1-vulnerabilities/
+https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html
+https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html
+https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html
+https://proton.me/blog/how-to-disable-onedrive
+https://proton.me/blog/turn-off-apple-intelligence
+https://proton.me/business/blog/cyber-insurance-small-business
