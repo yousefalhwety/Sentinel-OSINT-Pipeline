@@ -420,3 +420,10 @@ https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html
 https://proton.me/blog/how-to-disable-onedrive
 https://proton.me/blog/turn-off-apple-intelligence
 https://proton.me/business/blog/cyber-insurance-small-business
+https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/
+https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html
+https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html
+https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html
+https://blog.torproject.org/new-release-tor-browser-15019/
+https://proton.me/blog/email-filters
+https://proton.me/blog/what-does-google-know-about-me
