@@ -427,3 +427,9 @@ https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html
 https://blog.torproject.org/new-release-tor-browser-15019/
 https://proton.me/blog/email-filters
 https://proton.me/blog/what-does-google-know-about-me
+https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html
+https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html
+https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html
+https://proton.me/business/blog/is-passwork-safe
+https://proton.me/blog/france-social-media-ban
+https://proton.me/blog/how-to-disable-location-history
