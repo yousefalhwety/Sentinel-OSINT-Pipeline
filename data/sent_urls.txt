@@ -433,3 +433,11 @@ https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html
 https://proton.me/business/blog/is-passwork-safe
 https://proton.me/blog/france-social-media-ban
 https://proton.me/blog/how-to-disable-location-history
+https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html
+https://thehackernews.com/2026/07/russian-espionage-group-exploited.html
+https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html
+https://blog.torproject.org/new-release-tails-7_10/
+https://blog.torproject.org/new-alpha-release-tor-browser-160a9/
+https://proton.me/blog/google-eu-fine-antitrust-play-search
+https://proton.me/business/blog/document-version-control
+https://proton.me/business/blog/how-to-choose-a-cloud-workspace
