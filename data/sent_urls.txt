@@ -447,3 +447,6 @@ https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html
 https://proton.me/business/blog/data-retention-policy
 https://proton.me/blog/is-malwarebytes-safe
 https://proton.me/blog/is-venmo-safe
+https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html
+https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html
+https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html
