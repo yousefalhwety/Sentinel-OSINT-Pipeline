@@ -450,3 +450,7 @@ https://proton.me/blog/is-venmo-safe
 https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html
 https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html
 https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html
+https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html
+https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html
+https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html
+https://7asecurity.com/blog/2026/07/security-compliance-standards-for-business-owners/
