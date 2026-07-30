@@ -459,3 +459,6 @@ https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html
 https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html
 https://proton.me/business/blog/data-classification-business
 https://proton.me/business/blog/it-disaster-recovery-plan
+https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html
+https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html
+https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html
