@@ -462,3 +462,8 @@ https://proton.me/business/blog/it-disaster-recovery-plan
 https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html
 https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html
 https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html
+https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/
+https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html
+https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html
+https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html
+https://proton.me/blog/pass-improved-autofill
