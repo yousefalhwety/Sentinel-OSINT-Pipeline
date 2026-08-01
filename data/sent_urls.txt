@@ -467,3 +467,9 @@ https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html
 https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html
 https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html
 https://proton.me/blog/pass-improved-autofill
+https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html
+https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html
+https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html
+https://proton.me/business/blog/business-resilience
+https://proton.me/business/blog/document-management-system
+https://proton.me/business/blog/contingency-plan
