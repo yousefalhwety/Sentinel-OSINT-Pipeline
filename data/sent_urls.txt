@@ -473,3 +473,5 @@ https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html
 https://proton.me/business/blog/business-resilience
 https://proton.me/business/blog/document-management-system
 https://proton.me/business/blog/contingency-plan
+https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html
+https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html
