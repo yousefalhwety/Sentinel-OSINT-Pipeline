@@ -475,3 +475,6 @@ https://proton.me/business/blog/document-management-system
 https://proton.me/business/blog/contingency-plan
 https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html
 https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html
+https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html
+https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html
+https://7asecurity.com/blog/2026/07/pentest-services-business-risk/
