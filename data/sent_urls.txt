@@ -478,3 +478,8 @@ https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html
 https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html
 https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html
 https://7asecurity.com/blog/2026/07/pentest-services-business-risk/
+https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html
+https://thehackernews.com/2026/08/google-password-manager-attacks-could.html
+https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html
+https://blog.torproject.org/snowflake-volunteer-standalone-app-to-help-people-bypass-censorship/
+https://proton.me/blog/lumo-data-visualizations
