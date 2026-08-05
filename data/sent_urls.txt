@@ -483,3 +483,8 @@ https://thehackernews.com/2026/08/google-password-manager-attacks-could.html
 https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html
 https://blog.torproject.org/snowflake-volunteer-standalone-app-to-help-people-bypass-censorship/
 https://proton.me/blog/lumo-data-visualizations
+https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html
+https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html
+https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html
+https://blog.torproject.org/arti_2_5_1_released/
+https://proton.me/business/blog/lumo-data-visualizations
