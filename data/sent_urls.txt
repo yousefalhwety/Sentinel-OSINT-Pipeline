@@ -488,3 +488,10 @@ https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html
 https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html
 https://blog.torproject.org/arti_2_5_1_released/
 https://proton.me/business/blog/lumo-data-visualizations
+https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html
+https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html
+https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html
+https://blog.torproject.org/new-release-tails-7_10_1/
+https://proton.me/business/blog/human-error-cybersecurity-business-risk
+https://proton.me/blog/privacy-gadgets
+https://proton.me/blog/icloud-private-relay-ip-leak
