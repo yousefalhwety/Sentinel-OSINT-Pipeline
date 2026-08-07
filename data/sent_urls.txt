@@ -495,3 +495,10 @@ https://blog.torproject.org/new-release-tails-7_10_1/
 https://proton.me/business/blog/human-error-cybersecurity-business-risk
 https://proton.me/blog/privacy-gadgets
 https://proton.me/blog/icloud-private-relay-ip-leak
+https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/
+https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html
+https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html
+https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html
+https://proton.me/business/blog/vishing-attacks-business
+https://proton.me/business/blog/tech-kill-switch-europe
+https://proton.me/business/blog/business-continuity-survey
