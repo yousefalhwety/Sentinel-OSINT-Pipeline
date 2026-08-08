@@ -502,3 +502,7 @@ https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html
 https://proton.me/business/blog/vishing-attacks-business
 https://proton.me/business/blog/tech-kill-switch-europe
 https://proton.me/business/blog/business-continuity-survey
+https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html
+https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html
+https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html
+https://proton.me/business/blog/shadow-ai
