@@ -506,3 +506,6 @@ https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html
 https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html
 https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html
 https://proton.me/business/blog/shadow-ai
+https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html
+https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html
+https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html
