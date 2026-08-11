@@ -509,3 +509,7 @@ https://proton.me/business/blog/shadow-ai
 https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html
 https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html
 https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html
+https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html
+https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html
+https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html
+https://7asecurity.com/blog/2026/08/what-to-expect-from-a-penetration-test/
