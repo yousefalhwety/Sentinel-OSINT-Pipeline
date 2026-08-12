@@ -513,3 +513,10 @@ https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html
 https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html
 https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html
 https://7asecurity.com/blog/2026/08/what-to-expect-from-a-penetration-test/
+https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/
+https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html
+https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html
+https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html
+https://proton.me/blog/turn-off-siri
+https://proton.me/blog/smart-home-privacy
+https://proton.me/business/blog/cli-workflow-automation
