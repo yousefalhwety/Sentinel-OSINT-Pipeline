@@ -524,3 +524,7 @@ https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html
 https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html
 https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html
 https://proton.me/business/blog/protect-against-ai-agent-cyberattack
+https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html
+https://proton.me/business/blog/employee-offboarding-security
+https://proton.me/business/blog/data-breach-response-plan
+https://proton.me/blog/google-privacy-settings
