@@ -532,3 +532,8 @@ https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-fi
 https://proton.me/business/blog/remote-collaboration-tools
 https://proton.me/blog/gmail-ends-send-as-third-party
 https://forbiddenstories.org/how-morocco-allegedly-spies-on-an-african-ally/
+https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html
+https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html
+https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html
+https://blog.torproject.org/funding-internet-freedom-together/
+https://7asecurity.com/blog/2026/08/how-to-interview-a-penetration-testing-company/
