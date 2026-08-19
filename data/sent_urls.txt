@@ -537,3 +537,8 @@ https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.
 https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html
 https://blog.torproject.org/funding-internet-freedom-together/
 https://7asecurity.com/blog/2026/08/how-to-interview-a-penetration-testing-company/
+https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html
+https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html
+https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html
+https://blog.torproject.org/new-release-tor-browser-15020/
+https://proton.me/blog/resignation-email
