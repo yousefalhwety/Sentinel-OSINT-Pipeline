@@ -542,3 +542,10 @@ https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html
 https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html
 https://blog.torproject.org/new-release-tor-browser-15020/
 https://proton.me/blog/resignation-email
+https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html
+https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html
+https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html
+https://blog.torproject.org/new-release-tails-7_11/
+https://proton.me/blog/flock-ceo-interview
+https://proton.me/blog/flock-cameras-explained
+https://proton.me/blog/gmail-political-spam-filter
