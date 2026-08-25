@@ -561,3 +561,7 @@ https://thehackernews.com/2026/08/android-car-malware-spreads-through.html
 https://proton.me/business/blog/business-email-compromise-ceo-fraud
 https://proton.me/business/blog/social-engineering-training-employees
 https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html
+https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html
+https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html
+https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html
+https://7asecurity.com/blog/2026/08/llm-pentesting-checklist/
