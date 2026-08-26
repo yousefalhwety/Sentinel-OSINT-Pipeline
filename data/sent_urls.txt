@@ -565,3 +565,6 @@ https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html
 https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html
 https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html
 https://7asecurity.com/blog/2026/08/llm-pentesting-checklist/
+https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html
+https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html
+https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html
