@@ -588,3 +588,6 @@ https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html
 https://proton.me/blog/august-27-outage-incident-report
 https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html
 https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html
+https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html
+https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html
+https://7asecurity.com/blog/2026/08/cloud-penetration-testing/
