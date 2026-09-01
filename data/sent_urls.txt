@@ -591,3 +591,6 @@ https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html
 https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html
 https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html
 https://7asecurity.com/blog/2026/08/cloud-penetration-testing/
+https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html
+https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html
+https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html
