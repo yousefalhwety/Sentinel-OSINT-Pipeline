@@ -594,3 +594,11 @@ https://7asecurity.com/blog/2026/08/cloud-penetration-testing/
 https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html
 https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html
 https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html
+https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/
+https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html
+https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html
+https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html
+https://blog.torproject.org/new-release-tor-browser-15021/
+https://proton.me/blog/how-amazon-tracks-you
+https://proton.me/business/blog/team-password-management-by-department
+https://proton.me/business/blog/password-manager-msp-pilot
