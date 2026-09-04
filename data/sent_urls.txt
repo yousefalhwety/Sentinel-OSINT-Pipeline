@@ -607,3 +607,7 @@ https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html
 https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html
 https://blog.torproject.org/new-alpha-release-tor-browser-160a11/
 https://blog.torproject.org/arti_2_6_0_released/
+https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html
+https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html
+https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html
+https://blog.torproject.org/new-release-tails-7_12/
