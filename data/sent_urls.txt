@@ -614,3 +614,7 @@ https://blog.torproject.org/new-release-tails-7_12/
 https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html
 https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html
 https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html
+https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html
+https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html
+https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html
+https://proton.me/blog/google-account-recovery-gmail-scam
