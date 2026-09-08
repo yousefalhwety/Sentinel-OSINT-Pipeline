@@ -621,3 +621,8 @@ https://proton.me/blog/google-account-recovery-gmail-scam
 https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html
 https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html
 https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html
+https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html
+https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html
+https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html
+https://7asecurity.com/blog/2026/09/incus-security-audit-7asecurity/
+https://7asecurity.com/blog/2026/09/api-pentesting-guide/
