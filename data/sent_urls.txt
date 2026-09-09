@@ -626,3 +626,8 @@ https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html
 https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html
 https://7asecurity.com/blog/2026/09/incus-security-audit-7asecurity/
 https://7asecurity.com/blog/2026/09/api-pentesting-guide/
+https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
+https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html
+https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html
+https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html
+https://blog.torproject.org/new-release-tor-browser-15022/
