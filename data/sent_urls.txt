@@ -631,3 +631,9 @@ https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html
 https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html
 https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html
 https://blog.torproject.org/new-release-tor-browser-15022/
+https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html
+https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html
+https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html
+https://blog.torproject.org/tor-vpn-beta/
+https://proton.me/blog/social-media-algorithm
+https://proton.me/blog/privacy-tools-experts-use
