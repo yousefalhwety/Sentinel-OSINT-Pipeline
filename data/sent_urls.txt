@@ -637,3 +637,6 @@ https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html
 https://blog.torproject.org/tor-vpn-beta/
 https://proton.me/blog/social-media-algorithm
 https://proton.me/blog/privacy-tools-experts-use
+https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html
+https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html
+https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html
