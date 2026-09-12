@@ -640,3 +640,6 @@ https://proton.me/blog/privacy-tools-experts-use
 https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html
 https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html
 https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html
+https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html
+https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html
+https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html
