@@ -643,3 +643,6 @@ https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html
 https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html
 https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html
 https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html
+https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html
+https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html
+https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
