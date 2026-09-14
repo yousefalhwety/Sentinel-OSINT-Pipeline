@@ -646,3 +646,6 @@ https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html
 https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html
 https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html
 https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
+https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html
+https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html
+https://7asecurity.com/blog/2026/09/ai-red-teaming-vs-ai-penetration-testing/
