@@ -649,3 +649,6 @@ https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
 https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html
 https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html
 https://7asecurity.com/blog/2026/09/ai-red-teaming-vs-ai-penetration-testing/
+https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html
+https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html
+https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html
