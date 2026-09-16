@@ -652,3 +652,8 @@ https://7asecurity.com/blog/2026/09/ai-red-teaming-vs-ai-penetration-testing/
 https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html
 https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html
 https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html
+https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html
+https://thehackernews.com/2026/09/active-exploitation-attempts-target.html
+https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html
+https://blog.torproject.org/new-release-tails-7_13/
+https://blog.torproject.org/new-release-tor-browser-15023/
