@@ -657,3 +657,7 @@ https://thehackernews.com/2026/09/active-exploitation-attempts-target.html
 https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html
 https://blog.torproject.org/new-release-tails-7_13/
 https://blog.torproject.org/new-release-tor-browser-15023/
+https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/
+https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html
+https://thehackernews.com/2026/09/three-threat-groups-target-russian.html
+https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html
