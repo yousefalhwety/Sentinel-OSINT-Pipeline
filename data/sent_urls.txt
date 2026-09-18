@@ -661,3 +661,6 @@ https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy
 https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html
 https://thehackernews.com/2026/09/three-threat-groups-target-russian.html
 https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html
+https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html
+https://thehackernews.com/2026/09/critical-check-point-management-server.html
+https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html
