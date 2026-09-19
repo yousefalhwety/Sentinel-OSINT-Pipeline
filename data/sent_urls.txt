@@ -664,3 +664,6 @@ https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html
 https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html
 https://thehackernews.com/2026/09/critical-check-point-management-server.html
 https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html
+https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html
+https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html
+https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html
