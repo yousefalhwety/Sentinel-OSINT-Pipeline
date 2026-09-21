@@ -670,3 +670,7 @@ https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html
 https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
 https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html
 https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html
+https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html
+https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html
+https://7asecurity.com/blog/2026/09/bayanat-audit-by-7asecurity/
+https://7asecurity.com/blog/2026/09/owasp-top-10-llm-applications/
