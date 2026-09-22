@@ -674,3 +674,10 @@ https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html
 https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html
 https://7asecurity.com/blog/2026/09/bayanat-audit-by-7asecurity/
 https://7asecurity.com/blog/2026/09/owasp-top-10-llm-applications/
+https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html
+https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html
+https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html
+https://blog.torproject.org/new-alpha-release-tor-browser-160a12/
+https://proton.me/blog/lumo-apertus-partnership
+https://proton.me/business/blog/canada-us-tech
+https://proton.me/blog/more-privacy-tools-experts-use
