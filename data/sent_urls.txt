@@ -681,3 +681,7 @@ https://blog.torproject.org/new-alpha-release-tor-browser-160a12/
 https://proton.me/blog/lumo-apertus-partnership
 https://proton.me/business/blog/canada-us-tech
 https://proton.me/blog/more-privacy-tools-experts-use
+https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html
+https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html
+https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html
+https://proton.me/blog/meta-smart-glasses-ai-robots
