@@ -685,3 +685,6 @@ https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html
 https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html
 https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html
 https://proton.me/blog/meta-smart-glasses-ai-robots
+https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
+https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html
+https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
