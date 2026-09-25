@@ -688,3 +688,7 @@ https://proton.me/blog/meta-smart-glasses-ai-robots
 https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
 https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html
 https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
+https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html
+https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html
+https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html
+https://proton.me/blog/ai-chatbot-survey
