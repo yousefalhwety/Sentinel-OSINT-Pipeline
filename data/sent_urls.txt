@@ -692,3 +692,7 @@ https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html
 https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html
 https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html
 https://proton.me/blog/ai-chatbot-survey
+https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/
+https://thehackernews.com/2026/09/compromised-github-actions-came-back.html
+https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html
+https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html
