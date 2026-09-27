@@ -696,3 +696,6 @@ https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att
 https://thehackernews.com/2026/09/compromised-github-actions-came-back.html
 https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html
 https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html
+https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
+https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
+https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
