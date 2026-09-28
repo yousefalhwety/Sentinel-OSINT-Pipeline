@@ -699,3 +699,6 @@ https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html
 https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
 https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
 https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
+https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html
+https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html
+https://7asecurity.com/blog/2026/09/cloud-misconfiguration-real-audit/
