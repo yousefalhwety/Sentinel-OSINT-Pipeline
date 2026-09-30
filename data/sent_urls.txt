@@ -709,3 +709,9 @@ https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html
 https://proton.me/business/blog/security-incident-communication
 https://proton.me/business/blog/osint-business-security
 https://proton.me/business/blog/cloud-act
+https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html
+https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html
+https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html
+https://blog.torproject.org/new-release-tails-7_14/
+https://blog.torproject.org/new-release-tor-browser-15024/
+https://proton.me/blog/hacker-tech-tools
