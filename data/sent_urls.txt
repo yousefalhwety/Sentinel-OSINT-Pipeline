@@ -715,3 +715,6 @@ https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html
 https://blog.torproject.org/new-release-tails-7_14/
 https://blog.torproject.org/new-release-tor-browser-15024/
 https://proton.me/blog/hacker-tech-tools
+https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html
+https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html
+https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html
