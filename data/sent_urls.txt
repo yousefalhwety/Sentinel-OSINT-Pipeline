@@ -718,3 +718,8 @@ https://proton.me/blog/hacker-tech-tools
 https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html
 https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html
 https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html
+https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html
+https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
+https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html
+https://blog.torproject.org/new-alpha-release-tor-browser-160a13/
+https://blog.torproject.org/arti_2_7_0_released/
