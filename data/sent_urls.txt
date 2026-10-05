@@ -731,3 +731,7 @@ https://proton.me/blog/meta-muse-ai-home-address
 https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html
 https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
 https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html
+https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
+https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
+https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html
+https://7asecurity.com/blog/2026/10/kubernetes-security-gaps/
