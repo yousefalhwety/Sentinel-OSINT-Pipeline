@@ -735,3 +735,9 @@ https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
 https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
 https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html
 https://7asecurity.com/blog/2026/10/kubernetes-security-gaps/
+https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html
+https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html
+https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html
+https://proton.me/blog/how-to-unsend-email-gmail
+https://proton.me/business/blog/offsite-backup
+https://proton.me/blog/how-to-delete-google-search-history
