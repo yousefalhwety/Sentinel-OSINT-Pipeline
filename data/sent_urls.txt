@@ -741,3 +741,8 @@ https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html
 https://proton.me/blog/how-to-unsend-email-gmail
 https://proton.me/business/blog/offsite-backup
 https://proton.me/blog/how-to-delete-google-search-history
+https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html
+https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html
+https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html
+https://ooni.org/post/2026-ooni-fifafrica/
+https://proton.me/blog/mac-vs-pc-privacy
