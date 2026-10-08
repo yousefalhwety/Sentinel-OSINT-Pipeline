@@ -746,3 +746,9 @@ https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html
 https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html
 https://ooni.org/post/2026-ooni-fifafrica/
 https://proton.me/blog/mac-vs-pc-privacy
+https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/
+https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html
+https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html
+https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html
+https://proton.me/business/blog/ai-training-business-data
+https://proton.me/business/blog/signs-you-need-a-business-password-manager
