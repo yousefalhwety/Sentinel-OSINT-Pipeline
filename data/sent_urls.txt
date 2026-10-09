@@ -752,3 +752,6 @@ https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html
 https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html
 https://proton.me/business/blog/ai-training-business-data
 https://proton.me/business/blog/signs-you-need-a-business-password-manager
+https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html
+https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html
+https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html
