@@ -755,3 +755,11 @@ https://proton.me/business/blog/signs-you-need-a-business-password-manager
 https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html
 https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html
 https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html
+https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/
+https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html
+https://thehackernews.com/2026/10/credential-stealing-github-actions.html
+https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html
+https://blog.torproject.org/on-tor-relationship-with-mullvad/
+https://proton.me/business/blog/asos-data-breach
+https://proton.me/business/blog/what-zero-retention-data-means
+https://proton.me/business/blog/dark-web-business-credentials
