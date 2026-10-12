@@ -765,3 +765,7 @@ https://proton.me/business/blog/what-zero-retention-data-means
 https://proton.me/business/blog/dark-web-business-credentials
 https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
 https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html
+https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html
+https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html
+https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
+https://7asecurity.com/blog/2026/10/active-directory-penetration-testing-engagements/
