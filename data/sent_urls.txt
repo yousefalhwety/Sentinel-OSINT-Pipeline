@@ -769,3 +769,10 @@ https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html
 https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html
 https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
 https://7asecurity.com/blog/2026/10/active-directory-penetration-testing-engagements/
+https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html
+https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html
+https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html
+https://blog.torproject.org/tor-is-powered-by-you/
+https://blog.torproject.org/new-release-tor-browser-15025/
+https://proton.me/business/blog/follow-up-email
+https://proton.me/business/blog/workflow-automation
