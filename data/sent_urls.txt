@@ -776,3 +776,11 @@ https://blog.torproject.org/tor-is-powered-by-you/
 https://blog.torproject.org/new-release-tor-browser-15025/
 https://proton.me/business/blog/follow-up-email
 https://proton.me/business/blog/workflow-automation
+https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/
+https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html
+https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html
+https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html
+https://blog.torproject.org/new-release-tails-7_15/
+https://proton.me/blog/palantir-modern-warfare
+https://proton.me/business/blog/soc-1-vs-soc-2
+https://proton.me/business/blog/meeting-notes
