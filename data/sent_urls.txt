@@ -784,3 +784,10 @@ https://blog.torproject.org/new-release-tails-7_15/
 https://proton.me/blog/palantir-modern-warfare
 https://proton.me/business/blog/soc-1-vs-soc-2
 https://proton.me/business/blog/meeting-notes
+https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/
+https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html
+https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html
+https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html
+https://proton.me/blog/how-to-delete-your-facebook-account
+https://proton.me/business/blog/business-meeting
+https://proton.me/business/blog/meet-waiting-rooms-chat-threads
