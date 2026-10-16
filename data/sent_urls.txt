@@ -791,3 +791,9 @@ https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html
 https://proton.me/blog/how-to-delete-your-facebook-account
 https://proton.me/business/blog/business-meeting
 https://proton.me/business/blog/meet-waiting-rooms-chat-threads
+https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
+https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html
+https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
+https://blog.torproject.org/new-alpha-release-tor-browser-160a14/
+https://proton.me/blog/introducing-pass-folders-url-matching
+https://proton.me/blog/2026-autumn-winter-roadmaps
