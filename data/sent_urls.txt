@@ -797,3 +797,9 @@ https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html
 https://blog.torproject.org/new-alpha-release-tor-browser-160a14/
 https://proton.me/blog/introducing-pass-folders-url-matching
 https://proton.me/blog/2026-autumn-winter-roadmaps
+https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
+https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html
+https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html
+https://proton.me/blog/google-selfie-video
+https://proton.me/business/blog/security-incident-log
+https://proton.me/business/blog/vendor-risk-management
