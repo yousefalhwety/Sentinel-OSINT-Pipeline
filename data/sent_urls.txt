@@ -803,3 +803,5 @@ https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html
 https://proton.me/blog/google-selfie-video
 https://proton.me/business/blog/security-incident-log
 https://proton.me/business/blog/vendor-risk-management
+https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
+https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
