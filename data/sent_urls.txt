@@ -805,3 +805,6 @@ https://proton.me/business/blog/security-incident-log
 https://proton.me/business/blog/vendor-risk-management
 https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
 https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
+https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
+https://thehackernews.com/2026/10/opencode-console-breach-may-have.html
+https://7asecurity.com/blog/2026/10/owasp-ai-top-10-2026/
