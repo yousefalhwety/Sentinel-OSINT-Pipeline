@@ -808,3 +808,8 @@ https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
 https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
 https://thehackernews.com/2026/10/opencode-console-breach-may-have.html
 https://7asecurity.com/blog/2026/10/owasp-ai-top-10-2026/
+https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/
+https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html
+https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html
+https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html
+https://proton.me/business/blog/shared-drive
