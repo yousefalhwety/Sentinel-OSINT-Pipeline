@@ -813,3 +813,9 @@ https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html
 https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html
 https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html
 https://proton.me/business/blog/shared-drive
+https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html
+https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html
+https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html
+https://proton.me/business/blog/admin-roles
+https://proton.me/blog/best-private-browsers
+https://proton.me/blog/data-brokers-gdpr
