@@ -819,3 +819,9 @@ https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html
 https://proton.me/business/blog/admin-roles
 https://proton.me/blog/best-private-browsers
 https://proton.me/blog/data-brokers-gdpr
+https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/
+https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html
+https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html
+https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html
+https://blog.torproject.org/new-release-tor-browser-15026/
+https://proton.me/blog/meta-25-billion-penalty
