@@ -825,3 +825,7 @@ https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html
 https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html
 https://blog.torproject.org/new-release-tor-browser-15026/
 https://proton.me/blog/meta-25-billion-penalty
+https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html
+https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html
+https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html
+https://proton.me/blog/lumo-creations
