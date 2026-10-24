@@ -829,3 +829,7 @@ https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html
 https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html
 https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html
 https://proton.me/blog/lumo-creations
+https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
+https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
+https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html
+https://blog.torproject.org/new-release-tails-7_15_1/
