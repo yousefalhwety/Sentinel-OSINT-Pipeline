@@ -833,3 +833,6 @@ https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
 https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
 https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html
 https://blog.torproject.org/new-release-tails-7_15_1/
+https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html
+https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
+https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html
