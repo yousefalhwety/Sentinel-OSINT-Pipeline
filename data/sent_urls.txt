@@ -836,3 +836,7 @@ https://blog.torproject.org/new-release-tails-7_15_1/
 https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html
 https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
 https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html
+https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html
+https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html
+https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
+https://7asecurity.com/blog/2026/10/owasp-top-10-testing-guide/
