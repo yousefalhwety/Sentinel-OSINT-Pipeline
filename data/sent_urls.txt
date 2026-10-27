@@ -840,3 +840,8 @@ https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html
 https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html
 https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
 https://7asecurity.com/blog/2026/10/owasp-top-10-testing-guide/
+https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html
+https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html
+https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html
+https://proton.me/blog/gmail-ads
+https://proton.me/business/blog/project-tracking
