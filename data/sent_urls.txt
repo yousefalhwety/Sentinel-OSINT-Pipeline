@@ -845,3 +845,7 @@ https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html
 https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html
 https://proton.me/blog/gmail-ads
 https://proton.me/business/blog/project-tracking
+https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html
+https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html
+https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html
+https://proton.me/blog/privacy-while-traveling
