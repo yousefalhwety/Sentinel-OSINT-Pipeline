@@ -849,3 +849,6 @@ https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html
 https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html
 https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html
 https://proton.me/blog/privacy-while-traveling
+https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html
+https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html
+https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html
