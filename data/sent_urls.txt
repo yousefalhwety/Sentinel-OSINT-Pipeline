@@ -852,3 +852,8 @@ https://proton.me/blog/privacy-while-traveling
 https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html
 https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html
 https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html
+https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
+https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
+https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
+https://blog.torproject.org/new-release-tails-7_16/
+https://blog.torproject.org/new-release-tor-browser-160/
