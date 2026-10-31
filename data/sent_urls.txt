@@ -857,3 +857,6 @@ https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
 https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
 https://blog.torproject.org/new-release-tails-7_16/
 https://blog.torproject.org/new-release-tor-browser-160/
+https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
+https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html
+https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html
