@@ -860,3 +860,6 @@ https://blog.torproject.org/new-release-tor-browser-160/
 https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
 https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html
 https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html
+https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
+https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html
+https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html
