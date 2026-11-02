@@ -863,3 +863,10 @@ https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html
 https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
 https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html
 https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html
+https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html
+https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html
+https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html
+https://proton.me/blog/ai-manifesto
+https://7asecurity.com/blog/mobile-app-security-training/
+https://7asecurity.com/blog/owasp-top-10-testing-guide/
+https://7asecurity.com/blog/owasp-ai-top-10-2026/
