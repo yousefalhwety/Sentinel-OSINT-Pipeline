@@ -874,3 +874,7 @@ https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m
 https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html
 https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html
 https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html
+https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html
+https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html
+https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html
+https://proton.me/business/blog/backup-codes
