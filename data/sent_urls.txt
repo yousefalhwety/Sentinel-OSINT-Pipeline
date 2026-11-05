@@ -878,3 +878,10 @@ https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html
 https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html
 https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html
 https://proton.me/business/blog/backup-codes
+https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/
+https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html
+https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html
+https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html
+https://blog.torproject.org/arti_2_8_0_released/
+https://proton.me/business/blog/encryption-at-rest-vs-in-transit
+https://proton.me/blog/is-snapchat-safe
