@@ -885,3 +885,7 @@ https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html
 https://blog.torproject.org/arti_2_8_0_released/
 https://proton.me/business/blog/encryption-at-rest-vs-in-transit
 https://proton.me/blog/is-snapchat-safe
+https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html
+https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html
+https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html
+https://proton.me/business/blog/api-key-management-business
