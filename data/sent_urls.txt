@@ -889,3 +889,7 @@ https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html
 https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html
 https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html
 https://proton.me/business/blog/api-key-management-business
+https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html
+https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html
+https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+https://proton.me/business/blog/secure-password-sharing-business
