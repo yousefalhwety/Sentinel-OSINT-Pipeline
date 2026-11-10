@@ -897,3 +897,11 @@ https://thehackernews.com/2026/11/default-adminadmin-server-password.html
 https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html
 https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html
 https://7asecurity.com/blog/penetration-testing-compliance/
+https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html
+https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html
+https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html
+https://ooni.org/post/2026-ooni-probe-tls-middlebox-experiment/
+https://ooni.org/post/2026-tls-middlebox-survey/
+https://blog.torproject.org/new-release-tor-browser-1601/
+https://proton.me/blog/how-proton-keeps-your-data-secure
+https://proton.me/business/blog/data-security-risks-small-business
