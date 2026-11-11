@@ -905,3 +905,10 @@ https://ooni.org/post/2026-tls-middlebox-survey/
 https://blog.torproject.org/new-release-tor-browser-1601/
 https://proton.me/blog/how-proton-keeps-your-data-secure
 https://proton.me/business/blog/data-security-risks-small-business
+https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/
+https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html
+https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html
+https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html
+https://blog.torproject.org/new-release-tails-7_17/
+https://blog.torproject.org/new-release-tor-browser-1602/
+https://proton.me/blog/venmo-vs-cash-app-privacy
