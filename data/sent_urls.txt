@@ -912,3 +912,7 @@ https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html
 https://blog.torproject.org/new-release-tails-7_17/
 https://blog.torproject.org/new-release-tor-browser-1602/
 https://proton.me/blog/venmo-vs-cash-app-privacy
+https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
+https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html
+https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html
+https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html
