@@ -916,3 +916,9 @@ https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
 https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html
 https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html
 https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html
+https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html
+https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html
+https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html
+https://proton.me/business/blog/microsoft-365-outage-is-outlook-down
+https://proton.me/blog/apple-new-features-privacy-concerns
+https://proton.me/business/blog/sim-swapping
