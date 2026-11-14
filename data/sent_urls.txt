@@ -922,3 +922,8 @@ https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html
 https://proton.me/business/blog/microsoft-365-outage-is-outlook-down
 https://proton.me/blog/apple-new-features-privacy-concerns
 https://proton.me/business/blog/sim-swapping
+https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html
+https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html
+https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html
+https://proton.me/business/blog/claude-microsoft-365-connector-outage
+https://proton.me/business/blog/password-manager-roi
