@@ -927,3 +927,6 @@ https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html
 https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html
 https://proton.me/business/blog/claude-microsoft-365-connector-outage
 https://proton.me/business/blog/password-manager-roi
+https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html
+https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html
+https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html
