@@ -946,3 +946,8 @@ https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html
 https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html
 https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html
 https://blog.torproject.org/new-release-tails-7_17_1/
+https://thehackernews.com/2026/11/everything-is-web-application-including.html
+https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html
+https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html
+https://proton.me/blog/introducing-easy-switch-drive
+https://proton.me/blog/is-opera-gx-safe
