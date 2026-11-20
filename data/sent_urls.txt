@@ -951,3 +951,6 @@ https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html
 https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html
 https://proton.me/blog/introducing-easy-switch-drive
 https://proton.me/blog/is-opera-gx-safe
+https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html
+https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html
+https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html
