@@ -958,3 +958,5 @@ https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-frau
 https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html
 https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html
 https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html
+https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html
+https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html
