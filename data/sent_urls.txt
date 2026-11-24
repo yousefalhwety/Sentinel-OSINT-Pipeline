@@ -964,3 +964,8 @@ https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html
 https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html
 https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html
 https://7asecurity.com/blog/soc-2-compliance-audit/
+https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html
+https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html
+https://blog.torproject.org/new-release-tails-7_18/
+https://blog.torproject.org/the-future-of-private-browsing/
+https://proton.me/blog/lifetime-fundraiser-survey-2026
