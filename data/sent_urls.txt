@@ -969,3 +969,10 @@ https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html
 https://blog.torproject.org/new-release-tails-7_18/
 https://blog.torproject.org/the-future-of-private-browsing/
 https://proton.me/blog/lifetime-fundraiser-survey-2026
+https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html
+https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html
+https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html
+https://blog.torproject.org/new-release-tor-browser-1603/
+https://proton.me/business/blog/singapore-data-breaches
+https://proton.me/blog/how-to-protect-your-privacy-in-the-age-of-ai
+https://proton.me/business/blog/hidden-forwarding-rules
