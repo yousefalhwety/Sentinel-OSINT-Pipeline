@@ -976,3 +976,9 @@ https://blog.torproject.org/new-release-tor-browser-1603/
 https://proton.me/business/blog/singapore-data-breaches
 https://proton.me/blog/how-to-protect-your-privacy-in-the-age-of-ai
 https://proton.me/business/blog/hidden-forwarding-rules
+https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html
+https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html
+https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html
+https://proton.me/business/blog/how-to-choose-ai-tools
+https://proton.me/business/blog/client-onboarding
+https://proton.me/business/blog/contractor-onboarding
